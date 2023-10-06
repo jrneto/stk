@@ -1,2 +1,2 @@
 # stk
-Para testes do stackspot
+Para testes do stackspot :)
